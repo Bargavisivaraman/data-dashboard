@@ -17,7 +17,7 @@ pip install -r requirements.txt
 streamlit run dashboard.py
 ```
 
-The dashboard opens at http://localhost:8501
+The dashboard opens at https://data-dashboard-2026.streamlit.app
 
 ## Features
 
